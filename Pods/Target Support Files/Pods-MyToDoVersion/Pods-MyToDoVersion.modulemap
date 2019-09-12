@@ -1,0 +1,6 @@
+framework module Pods_MyToDoVersion {
+  umbrella header "Pods-MyToDoVersion-umbrella.h"
+
+  export *
+  module * { export * }
+}
